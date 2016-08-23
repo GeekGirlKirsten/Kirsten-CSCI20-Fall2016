@@ -1,0 +1,5 @@
+My name is Kirsten
+I am majoring in Computer Science.
+I am in this class because I love programming and it's required for my degree.
+I think I will learn a lot and, of course, I will be learning C++
+My dad is a self taught programmer and I didn't know what his actual job was until last summer when I asked him about programming.
